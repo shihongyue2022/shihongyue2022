@@ -1,58 +1,50 @@
-# 个人简历与作品集
+<div align="center">
 
-一个零依赖、可直接部署到 GitHub Pages 的个人简历网站。内容与页面分离，支持项目展示、资格证书徽章、证书验证链接、深色模式和打印为 PDF。
+# Hi, I'm SHIHONGYUE 👋
 
-## 本地预览
+### Software Developer · Python & Artificial Intelligence
 
-项目无需安装 Node.js。由于浏览器会限制直接读取本地 JSON，请在项目目录启动任意静态服务器：
+I enjoy turning complex problems into clear, maintainable software and learning through hands-on projects.
 
-```powershell
-python -m http.server 8080
-```
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-D6FF64?style=for-the-badge&logo=github&logoColor=17231D)](https://shihongyue2022.github.io/)
+[![Printable Resume](https://img.shields.io/badge/Printable_Resume-17231D?style=for-the-badge&logo=readme&logoColor=white)](https://shihongyue2022.github.io/resume/)
 
-然后打开 <http://localhost:8080>。
+</div>
 
-## 修改简历
+## About Me
 
-所有简历数据都在 [`data/resume.json`](data/resume.json)：
+- 🔭 Building practical projects across software engineering and artificial intelligence
+- 🐍 Working primarily with Python, with experience in JavaScript, HTML, and CSS
+- 🧠 Exploring machine learning, generative models, and modern web development
+- 🌏 Based in Japan and open to remote opportunities
+- 🤝 Open to internships, graduate roles, and project collaborations
 
-- `profile`：姓名、职位、简介和联系方式
-- `skills`：技能分类
-- `experience`：工作或实践经历
-- `education`：教育经历
-- `projects`：项目作品
-- `certificates`：资格证书和徽章
+## Tech Stack
 
-证书图片放在 `assets/certificates/`，PDF 简历放在 `assets/resume/`，然后在 JSON 中填写相对地址。
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+</p>
 
-证书配置示例：
+## Featured Projects
 
-```json
-{
-  "name": "证书名称",
-  "issuer": "发证机构",
-  "issuedAt": "2026-06",
-  "credentialId": "可选证书编号",
-  "image": "assets/certificates/example.png",
-  "verifyUrl": "https://证书官方验证地址"
-}
-```
+### [COMETS-GAN Operation](https://github.com/shihongyue2022/COMETS-GAN-operation)
 
-## 发布
+A Python-based exploration of generative adversarial networks, including model execution, experiment workflows, and result management.
 
-仓库已经配置 GitHub Pages 工作流。推送 `develop` 分支后，在仓库 **Settings → Pages** 中将 Source 设为 **GitHub Actions**，之后每次更新 `develop` 都会自动发布。
+### [Personal Resume & Portfolio](https://github.com/shihongyue2022/shihongyue2022.github.io)
 
-## 文件结构
+A responsive Astro portfolio with structured resume data, an A4 print layout, dark mode, and automated GitHub Pages deployment.
 
-```text
-├─ index.html                 # 网站首页
-├─ resume.html                # A4 打印简历
-├─ data/resume.json           # 简历内容
-├─ assets/
-│  ├─ css/styles.css          # 页面样式
-│  ├─ js/app.js               # 首页渲染逻辑
-│  ├─ js/resume.js            # 打印页渲染逻辑
-│  ├─ certificates/           # 证书图片
-│  └─ resume/                 # PDF 简历
-└─ .github/workflows/pages.yml
-```
+---
+
+<div align="center">
+  <a href="https://shihongyue2022.github.io/">Portfolio</a> ·
+  <a href="https://shihongyue2022.github.io/resume/">Resume</a> ·
+  <a href="https://github.com/shihongyue2022">GitHub</a>
+</div>
