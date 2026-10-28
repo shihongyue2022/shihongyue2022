@@ -50,7 +50,7 @@ A role-based Flask web application for field engineers and administrators. Imple
 
 [Project story](https://shihongyue2022.github.io/projects/eims/) · [Source](https://github.com/shihongyue2022/Equipment-Inspection-Management-System-EIMS-)
 
-### [PoE2 Companion — Equipment & Crafting Workbench](https://github.com/shihongyue2022/PoE2-Companion)
+### [PoE2 Build Atlas — Equipment & Crafting Workbench](https://github.com/shihongyue2022/PoE2-Build-Atlas)
 
 Extended an open-source crafting engine with AI-assisted development into a Path of Exile 2 assistant. It connects character imports, modifier analysis, budgeted equipment searches, whole-loadout resistance checks, and crafting-result verification.
 
@@ -61,7 +61,7 @@ Extended an open-source crafting engine with AI-assisted development into a Path
 
 **Stack:** TypeScript · React · Node.js · Lua · Web Workers · Vitest · Playwright
 
-[Demo · English](https://shihongyue2022.github.io/apps/poe2-companion/?lang=en) · [日本語](https://shihongyue2022.github.io/apps/poe2-companion/?lang=ja) · [中文](https://shihongyue2022.github.io/apps/poe2-companion/?lang=zh-CN) · [Project story](https://shihongyue2022.github.io/projects/poe2-companion/) · [Source](https://github.com/shihongyue2022/PoE2-Companion)
+[Demo · English](https://shihongyue2022.github.io/apps/poe2-companion/?lang=en) · [日本語](https://shihongyue2022.github.io/apps/poe2-companion/?lang=ja) · [中文](https://shihongyue2022.github.io/apps/poe2-companion/?lang=zh-CN) · [Project story](https://shihongyue2022.github.io/projects/poe2-companion/) · [Source](https://github.com/shihongyue2022/PoE2-Build-Atlas)
 
 ## Tools & Technologies
 
