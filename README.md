@@ -30,7 +30,7 @@ Open to backend, data analytics, and project collaboration opportunities.
 
 My master's research at Tokyo University of Science explored conditional diffusion models in time and Fourier domains for financial time-series covariance estimation and forecasting. I independently conducted the literature review, model design, and Python implementation, and compared the approach with classical statistical baselines using reproducible experiments.
 
-**Focus:** Python ? Time Series ? Statistical Modeling ? Machine Learning
+**Focus:** Python · Time Series · Statistical Modeling · Machine Learning
 
 [Research code](https://github.com/TEST-TEAM-CDSM/CDSM)
 
@@ -38,25 +38,25 @@ My master's research at Tokyo University of Science explored conditional diffusi
 
 An AI-assisted personal project for real-time voice conversion and model management. Work includes the desktop interface, packaging, licensing, and delivery workflows. The public Community edition is available under GPL-3.0-only; commercial models and licensing services are excluded.
 
-**Languages:** C# ? Python ? SQL
+**Languages:** C# · Python · SQL
 
-[Project story](https://shihongyue2022.github.io/projects/voicecraft/) ? [Community source](https://github.com/shihongyue2022/VoiceCraft-Community) ? [BOOTH](https://shitoushop.booth.pm/items/8707216)
+[Project story](https://shihongyue2022.github.io/projects/voicecraft/) · [Community source](https://github.com/shihongyue2022/VoiceCraft-Community) · [BOOTH](https://shitoushop.booth.pm/items/8707216)
 
 ### [Equipment Inspection Management System (EIMS)](https://github.com/shihongyue2022/Equipment-Inspection-Management-System-EIMS)
 
 An equipment inspection application for administrators and field engineers, with equipment, personnel, inspection records, and role-based access. The browser demo lets visitors switch roles, manage equipment, and record inspections using fictional data saved locally in their browser. It does not connect to the Python backend or provide real authentication.
 
-**Languages:** Python ? SQL
+**Languages:** Python · SQL
 
-[Browser demo - English](https://shihongyue2022.github.io/apps/eims/?lang=en) ? [Japanese demo](https://shihongyue2022.github.io/apps/eims/?lang=ja) ? [Chinese demo](https://shihongyue2022.github.io/apps/eims/?lang=zh) ? [Project story](https://shihongyue2022.github.io/projects/eims/) ? [Source](https://github.com/shihongyue2022/Equipment-Inspection-Management-System-EIMS)
+[Browser demo - English](https://shihongyue2022.github.io/apps/eims/?lang=en) · [Japanese demo](https://shihongyue2022.github.io/apps/eims/?lang=ja) · [Chinese demo](https://shihongyue2022.github.io/apps/eims/?lang=zh) · [Project story](https://shihongyue2022.github.io/projects/eims/) · [Source](https://github.com/shihongyue2022/Equipment-Inspection-Management-System-EIMS)
 
 ### [PoE2 Build Atlas - Equipment & Crafting Workbench](https://github.com/shihongyue2022/PoE2-Build-Atlas)
 
 An AI-assisted game build planner integrating damage analysis, equipment search, upgrade comparisons, and crafting planning. Chinese, English, and Japanese interfaces are available; native PoB2 recalculation requires the local edition.
 
-**Languages:** TypeScript ? Lua
+**Languages:** TypeScript · Lua
 
-[Browser demo - English](https://shihongyue2022.github.io/apps/poe2-companion/?lang=en) ? [Japanese demo](https://shihongyue2022.github.io/apps/poe2-companion/?lang=ja) ? [Chinese demo](https://shihongyue2022.github.io/apps/poe2-companion/?lang=zh-CN) ? [Project story](https://shihongyue2022.github.io/projects/poe2-companion/) ? [Source](https://github.com/shihongyue2022/PoE2-Build-Atlas)
+[Browser demo - English](https://shihongyue2022.github.io/apps/poe2-companion/?lang=en) · [Japanese demo](https://shihongyue2022.github.io/apps/poe2-companion/?lang=ja) · [Chinese demo](https://shihongyue2022.github.io/apps/poe2-companion/?lang=zh-CN) · [Project story](https://shihongyue2022.github.io/projects/poe2-companion/) · [Source](https://github.com/shihongyue2022/PoE2-Build-Atlas)
 
 ## Skills
 
