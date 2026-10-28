@@ -17,60 +17,56 @@ Based in Japan. I build backend systems, reproducible research workflows, and de
 
 My background combines financial mathematics, statistical modeling, and software development. My research at Tokyo University of Science focused on conditional diffusion models for financial time-series covariance estimation.
 
-- **Backend:** Python / Flask applications, relational databases, authentication, transactional services, and integration tests.
-- **Research:** PyTorch experiments, statistical baselines, evaluation metrics, and reproducible data workflows.
-- **Applications:** Windows voice conversion with C# / .NET, and equipment-planning tools with TypeScript / React.
-- **Engineering:** Database migrations, Docker deployment, application packaging, and automated browser checks.
+- **Research:** Financial time series, statistical modeling, machine learning, and reproducible experiments.
+- **Backend:** Python, SQL, data management, and access control.
+- **Applications:** Desktop tools with C# and Python; browser tools with TypeScript.
+- **Engineering:** Version control, testing, deployment, and application packaging.
 
 Open to backend, data analytics, and project collaboration opportunities.
 
 ## Selected Projects
 
-### [VoiceCraft — Windows Voice Changer](https://github.com/shihongyue2022/VoiceCraft-Community)
+### [Master's Research - Conditional Denoising Score Matching (CDSM)](https://github.com/TEST-TEAM-CDSM/CDSM)
 
-A personal project developed with AI-assisted coding, built around RVC for real-time voice conversion on Windows. Work on the commercial edition includes C# ONNX / CUDA inference, portable Python packaging, and an ASP.NET Core / PostgreSQL licensing dashboard. The public Community edition is available separately under GPL-3.0-only; commercial models and licensing services are excluded.
+My master's research at Tokyo University of Science explored conditional diffusion models in time and Fourier domains for financial time-series covariance estimation and forecasting. I independently conducted the literature review, model design, and Python implementation, and compared the approach with classical statistical baselines using reproducible experiments.
 
-**Stack:** C# · .NET / WPF · ONNX Runtime · Python · ASP.NET Core · PostgreSQL
-
-[Project story](https://shihongyue2022.github.io/projects/voicecraft/) · [Community source](https://github.com/shihongyue2022/VoiceCraft-Community) · [BOOTH](https://shitoushop.booth.pm/items/8707216)
-
-### [Conditional Denoising Score Matching (CDSM)](https://github.com/TEST-TEAM-CDSM/CDSM)
-
-A Python research codebase for sliding-window covariance estimation using conditional diffusion in time and Fourier domains. It connects data preparation, training, classical statistical baselines, metrics, and visualization for reproducible financial time-series experiments.
-
-**Stack:** Python · PyTorch · pandas · Time Series · Statistical Modeling · Jupyter
+**Focus:** Python ? Time Series ? Statistical Modeling ? Machine Learning
 
 [Research code](https://github.com/TEST-TEAM-CDSM/CDSM)
 
-### [Equipment Inspection Management System (EIMS)](https://github.com/shihongyue2022/Equipment-Inspection-Management-System-EIMS-)
+### [VoiceCraft - Windows Voice Changer](https://github.com/shihongyue2022/VoiceCraft-Community)
 
-A role-based Flask web application for field engineers and administrators. Implemented authentication and authorization, equipment / account / inspection CRUD, transactional services, MySQL and TiDB connectivity, Alembic migrations, Docker deployment, and HTTP integration tests.
+An AI-assisted personal project for real-time voice conversion and model management. Work includes the desktop interface, packaging, licensing, and delivery workflows. The public Community edition is available under GPL-3.0-only; commercial models and licensing services are excluded.
 
-**Stack:** Python · Flask · SQLAlchemy · MySQL / TiDB · Alembic · Docker · pytest
+**Languages:** C# ? Python ? SQL
 
-[Project story](https://shihongyue2022.github.io/projects/eims/) · [Source](https://github.com/shihongyue2022/Equipment-Inspection-Management-System-EIMS-)
+[Project story](https://shihongyue2022.github.io/projects/voicecraft/) ? [Community source](https://github.com/shihongyue2022/VoiceCraft-Community) ? [BOOTH](https://shitoushop.booth.pm/items/8707216)
 
-### [PoE2 Build Atlas — Equipment & Crafting Workbench](https://github.com/shihongyue2022/PoE2-Build-Atlas)
+### [Equipment Inspection Management System (EIMS)](https://github.com/shihongyue2022/Equipment-Inspection-Management-System-EIMS)
 
-Extended an open-source crafting engine with AI-assisted development into a Path of Exile 2 assistant. It connects character imports, modifier analysis, budgeted equipment searches, whole-loadout resistance checks, and crafting-result verification.
+An equipment inspection application for administrators and field engineers, with equipment, personnel, inspection records, and role-based access. The browser demo lets visitors switch roles, manage equipment, and record inspections using fictional data saved locally in their browser. It does not connect to the Python backend or provide real authentication.
 
-- Parses PoB2 XML / share codes and maps item modifiers to official trade filters.
-- Checks equipment swaps against budget and resistance constraints; tracks crafting materials and costs.
-- Offers Chinese, English, and Japanese interfaces in local and hosted editions.
-- The browser demo uses official trade search links; local services enable PoB2 recalculation and desktop shortcuts.
+**Languages:** Python ? SQL
 
-**Stack:** TypeScript · React · Node.js · Lua · Web Workers · Vitest · Playwright
+[Browser demo - English](https://shihongyue2022.github.io/apps/eims/?lang=en) ? [Japanese demo](https://shihongyue2022.github.io/apps/eims/?lang=ja) ? [Chinese demo](https://shihongyue2022.github.io/apps/eims/?lang=zh) ? [Project story](https://shihongyue2022.github.io/projects/eims/) ? [Source](https://github.com/shihongyue2022/Equipment-Inspection-Management-System-EIMS)
 
-[Demo · English](https://shihongyue2022.github.io/apps/poe2-companion/?lang=en) · [日本語](https://shihongyue2022.github.io/apps/poe2-companion/?lang=ja) · [中文](https://shihongyue2022.github.io/apps/poe2-companion/?lang=zh-CN) · [Project story](https://shihongyue2022.github.io/projects/poe2-companion/) · [Source](https://github.com/shihongyue2022/PoE2-Build-Atlas)
+### [PoE2 Build Atlas - Equipment & Crafting Workbench](https://github.com/shihongyue2022/PoE2-Build-Atlas)
 
-## Tools & Technologies
+An AI-assisted game build planner integrating damage analysis, equipment search, upgrade comparisons, and crafting planning. Chinese, English, and Japanese interfaces are available; native PoB2 recalculation requires the local edition.
 
-| Area | Technologies |
+**Languages:** TypeScript ? Lua
+
+[Browser demo - English](https://shihongyue2022.github.io/apps/poe2-companion/?lang=en) ? [Japanese demo](https://shihongyue2022.github.io/apps/poe2-companion/?lang=ja) ? [Chinese demo](https://shihongyue2022.github.io/apps/poe2-companion/?lang=zh-CN) ? [Project story](https://shihongyue2022.github.io/projects/poe2-companion/) ? [Source](https://github.com/shihongyue2022/PoE2-Build-Atlas)
+
+## Skills
+
+| Area | Skills |
 | --- | --- |
-| Backend & databases | Python, Flask, SQLAlchemy, SQL, MySQL / TiDB, ASP.NET Core, PostgreSQL |
-| Data & research | PyTorch, pandas, MATLAB, Jupyter, time series, diffusion models |
-| Desktop & web | C# / .NET, WPF, ONNX Runtime, TypeScript, React, Node.js |
-| Engineering | Git / GitHub, Docker, Linux / Shell, Alembic, pytest, Vitest, Playwright |
+| Backend & databases | Python, SQL |
+| Data & research | Time series, statistical modeling, visualization |
+| Machine learning | Diffusion models, experiment design |
+| Applications | C#, TypeScript, Lua |
+| Engineering | Git, Linux, testing, deployment, reproducible workflows |
 
 ## Certifications
 
